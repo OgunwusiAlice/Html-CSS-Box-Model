@@ -16,16 +16,17 @@
 .secondBox {
   background-color: gold;
   border-top: 20px solid black;
-  border-bottom: 15px solid black;
+  border-bottom: 20px solid black;
   border-left: 10px solid black;
   border-right: 10px solid black;
-  margin-left: 282px;
-  margin-top: -12px;
+  margin-left: 279px;
+  margin-top: -22px;
 }
 .thirdBox {
   background-color: indianred;
   border: 10px solid black;
   margin-bottom: 30px;
   margin: 50px;
-  margin-top: -10px;
+  margin-top: -2px;
+  margin-left: 60px;
 }
